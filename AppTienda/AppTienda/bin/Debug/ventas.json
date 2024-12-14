@@ -1,0 +1,30 @@
+[
+  {
+    "NumeroVenta": 1,
+    "Fecha": "2024-12-13T17:50:07.2845113-06:00",
+    "Producto": "qwe",
+    "Cantidad": 23,
+    "Total": 4423.0
+  },
+  {
+    "NumeroVenta": 2,
+    "Fecha": "2024-12-13T20:41:56.2879949-06:00",
+    "Producto": "qwe",
+    "Cantidad": 123,
+    "Total": 234.0
+  },
+  {
+    "NumeroVenta": 3,
+    "Fecha": "2024-12-13T00:00:00",
+    "Producto": "qwe",
+    "Cantidad": 88,
+    "Total": 6546.0
+  },
+  {
+    "NumeroVenta": 4,
+    "Fecha": "2024-12-13T00:00:00",
+    "Producto": "3wq",
+    "Cantidad": 5,
+    "Total": 35.00
+  }
+]
